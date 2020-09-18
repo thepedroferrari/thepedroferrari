@@ -11,6 +11,7 @@
 - 2006: Lua Addons for World of Warcraft
 - 2007: Backend Systems with Ruby on Rails
 - 2009: Solid Entrepreneurship with WordPress
+- 2012: Playing with MySQL https://www.facebook.com/photo?fbid=10150859584256528&set=a.10150811205961528
 - 2014: Angular, Node and Gulp Pipelines
 - 2015: Laravel and SQL for in-house CMS
 - 2016: Git
