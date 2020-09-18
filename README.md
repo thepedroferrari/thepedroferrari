@@ -12,10 +12,11 @@
 - 2007: Backend Systems with Ruby on Rails
 - 2009: Solid Entrepreneurship with WordPress
 - 2012: Playing with MySQL https://www.facebook.com/photo?fbid=10150859584256528&set=a.10150811205961528
+- 2013: Rest API's
 - 2014: Angular, Node and Gulp Pipelines
 - 2015: Laravel and SQL for in-house CMS
 - 2016: Git
-- 2017: React
+- 2017: React and GraphQL
 - 2018: TypeScript hurts my feelings — we're now besties
 - 2019: Started teaching JavaScript and the basics to juniors
 - 2020: Managing to survive :D
