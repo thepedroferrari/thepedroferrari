@@ -20,7 +20,7 @@
 - 2017: React and GraphQL
 - 2018: TypeScript hurts my feelings — we're now besties
 - 2019: Started teaching JavaScript and the basics to juniors
-- 2020: Managing to survive :D
+- 2020: Learning Design patterns and algorithms; Teaching JavaScript, TypeScript and React
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepedroferrari" alt="Pedro's GitHub Stats" />
