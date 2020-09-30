@@ -10,6 +10,7 @@
 - 2005: Tech degree in Information Systems
 - 2006: Lua Addons for World of Warcraft
 - 2007: Backend Systems with Ruby on Rails
+- 2008: Bachelor in Game Design at [Anhembi Morumbi](https://portal.anhembi.br/graduacao/cursos/design-de-games/)
 - 2009: Solid Entrepreneurship with WordPress
 - 2012: Playing with MySQL https://www.facebook.com/photo?fbid=10150859584256528&set=a.10150811205961528
 - 2013: Rest API's
