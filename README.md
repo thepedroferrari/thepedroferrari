@@ -3,7 +3,7 @@
 - 1995: First Website thanks to Geocities
 - 1996: Frontpage express
 - 1997: Introdution to Unix and servers
-- 1999: Released Counter Strike servers with http://metamod.org, http://www.adminmod.org and http://www.amxmod.net/
+- 1999: Released Counter Strike servers with [MetaMod](http://metamod.org), [AdminMod](http://www.adminmod.org) and [AMX Mod](http://www.amxmod.net/)
 - 2000: Dedicated TeamSpeak servers
 - 2001: Redhat Certification at [4Bios](https://www.4biosacademy.com.br/rh-adm1e2)
 - 2002: ActionScript animations and websites with Flash
