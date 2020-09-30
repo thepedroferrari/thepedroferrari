@@ -12,7 +12,7 @@
 - 2007: Backend Systems with Ruby on Rails
 - 2008: Bachelor in Game Design at [Anhembi Morumbi](https://portal.anhembi.br/graduacao/cursos/design-de-games/)
 - 2009: Solid Entrepreneurship with WordPress
-- 2012: Playing with MySQL https://www.facebook.com/photo?fbid=10150859584256528&set=a.10150811205961528
+- 2012: Playing with MySQL [Facebook Photo](https://www.facebook.com/photo?fbid=10150859584256528&set=a.10150811205961528)
 - 2013: Rest API's at [Lynda.com](https://lynda.com)
 - 2014: Angular, Node and Gulp Pipelines at [Team Tree House](https://teamtreehouse.com/)
 - 2015: Laravel and SQL for in-house CMS
