@@ -28,5 +28,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=thepedroferrari&&show_icons=true" alt="Pedro's GitHub Stats" />
 </p>
 
-### Also on GitLab as thepedroferrari
+### Also on GitLab as [thepedroferrari](https://gitlab.com/thepedroferrari)
 ![Screenshot 2021-03-20 at 01 36 24](https://user-images.githubusercontent.com/15842767/111853904-138d0d00-891d-11eb-8fdc-8d69d183e2cd.png)
