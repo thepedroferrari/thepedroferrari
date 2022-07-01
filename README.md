@@ -21,7 +21,7 @@
 - 2018: TypeScript hurts my feelings — we're now besties
 - 2019: Started teaching JavaScript and the basics to juniors
 - 2020: Learning Design patterns and algorithms; Teaching JavaScript, TypeScript and React
-- 2020: Becoming a Lead in particular fields, owning tech and upbringing colleagues.
+- 2021: Becoming a Lead in particular fields, owning tech and upbringing colleagues.
 - 2022: Playing with Dart & Flutter, GO and Rust
 
 <p>
