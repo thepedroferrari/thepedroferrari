@@ -23,6 +23,7 @@
 - 2020: Learning Design patterns and algorithms; Teaching JavaScript, TypeScript and React
 - 2021: Becoming a Lead in particular fields, owning tech and upbringing colleagues.
 - 2022: Playing with Dart & Flutter, GO and Rust
+- 2023: Challenging myself to lead projects and guide teams together
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepedroferrari" alt="Pedro's GitHub Stats" />
